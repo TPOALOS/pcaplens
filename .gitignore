@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+.idea/
+.vscode/
+*.egg-info/
+build/
+dist/
+.env
+
+# captures and extracted objects are data, not source
+*.pcap
+*.pcapng
+*.cap
+extracted/
