@@ -135,3 +135,7 @@ Test captures are generated in memory from `synth.py`; the repository contains n
 ## License
 
 MIT (c) TPOALOS
+
+---
+
+**More tools by [TPOALOS](https://github.com/TPOALOS):** [ctfhost](https://github.com/TPOALOS/ctfhost) · [pocketledger](https://github.com/TPOALOS/pocketledger) · [hostguard](https://github.com/TPOALOS/hostguard) · [all 51 tools](https://tpoalos.github.io)
